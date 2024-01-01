@@ -18,25 +18,15 @@ Sr  | Problems                                                                  
 3   | [Kth Smallest Element Query]()                                                     | [Problem Link]()                                                     | 
 4  | [Combination Sums]()                                                     | [Problem Link]()                                                     | 
 5   | [Flip Matrix]()                                                     | [Problem Link]()                                                     | 
-
 6  | [Combinations in a Phone Number]()                                                     | [Problem Link]()                                                     | 
-
 7   | [Find Missing and Repeating]()                                                     | [Problem Link]()                                                     | 
-
 8  | [Finding consecutive integers from a Data Stream]()                                                     | [Problem Link]()                                                     | 
-
 9   | [Following a number pattern]()                                                     | [Problem Link]()                                                     | 
-
 10  | [K - divisible Elements Subarrays]()                                                     | [Problem Link]()                                                     | 
-
 11   | [Map of Highest Peak]()                                                     | [Problem Link]()                                                     | 
-
 12  | [Maximum Sum BST]()                                                     | [Problem Link]()                                                     | 
-
 13   | [People aware of a secret]()                                                     | [Problem Link]()                                                     | 
-
 14  | [Run Length Encoding](Goldman Sachs/Run_Length_Encoding.java)                                                     | [Problem Link](https://practice.geeksforgeeks.org/problems/run-length-encoding/1)                                                     | ✅
-
 15   | [Ways to reach a position after K steps]()                                                     | [Problem Link]()                                                     | 
 
 
