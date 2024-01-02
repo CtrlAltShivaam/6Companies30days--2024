@@ -22,7 +22,7 @@ Sr  | Problems                                                                  
 7   | [Find Missing and Repeating]()                                                     | [Problem Link]()                                                     | 
 8  | [Finding consecutive integers from a Data Stream]()                                                     | [Problem Link]()                                                     | 
 9   | [Following a number pattern]()                                                     | [Problem Link]()                                                     | 
-10  | [K - divisible Elements Subarrays]()                                                     | [Problem Link]()                                                     | 
+10  | [K - divisible Elements Subarrays](Goldman%20Sachs/K_Divisible_Elements_Subarrays.java)                                                     | [Problem Link](https://leetcode.com/problems/k-divisible-elements-subarrays/)                                                     |✅
 11   | [Map of Highest Peak]()                                                     | [Problem Link]()                                                     | 
 12  | [Maximum Sum BST]()                                                     | [Problem Link]()                                                     | 
 13   | [People aware of a secret]()                                                     | [Problem Link]()                                                     | 
