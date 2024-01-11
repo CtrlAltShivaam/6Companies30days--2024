@@ -9,17 +9,17 @@ Verify it in [LeetCode](https://leetcode.com/Shivam_____/)
 
 
 <details>
-<summary style="font-size: 1.2em">Goldman Sachs (4/15)</summary>
+<summary style="font-size: 1.2em">Goldman Sachs (7/15)</summary>
 
 Sr  | Problems                                                                                    | TryIt                                                                                                                                     | Status
 ----|---------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------
 1   | [Minimize the Maximum of Two Arrays]()                                                     | [Problem Link]()                                                     | 
-2  | [Employee Priority Systems]()                                                     | [Problem Link]()                                                     | 
+2  | [Employee Priority Systems](Goldman%20Sachs/Employee_Priority_Systems.java)                                                     | [Problem Link](https://leetcode.com/problems/high-access-employees/)                                                     | ✅
 3   | [Kth Smallest Element Query]()                                                     | [Problem Link]()                                                     | 
 4  | [Combination Sums]()                                                     | [Problem Link]()                                                     | 
 5   | [Flip Matrix]()                                                     | [Problem Link]()                                                     | 
 6  | [Combinations in a Phone Number](Goldman%20Sachs/Combinations_in_a_Phone_Number.java)                                                     | [Problem Link](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)                                                     |✅ 
-7   | [Find Missing and Repeating]()                                                     | [Problem Link]()                                                     | 
+7   | [Find Missing and Repeating](Goldman%20Sachs/Find_Missing_and_Repeating.java)                                                     | [Problem Link](https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1)                                                     |✅
 8  | [Finding consecutive integers from a Data Stream]()                                                     | [Problem Link]()                                                     | 
 9   | [Following a number pattern](Goldman%20Sachs/Number_following_a_pattern.java)                                                     | [Problem Link](https://www.geeksforgeeks.org/problems/number-following-a-pattern3126/1)                                                     |✅
 10  | [K - divisible Elements Subarrays](Goldman%20Sachs/K_Divisible_Elements_Subarrays.java)                                                     | [Problem Link](https://leetcode.com/problems/k-divisible-elements-subarrays/)                                                     |✅
